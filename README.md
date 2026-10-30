@@ -1,2 +1,0 @@
-# apk-6ae45b34
-WebView APK for FOODWALAQRSYSTEM
